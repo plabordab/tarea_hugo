@@ -1,11 +1,8 @@
-+++
-title = "configuración de docker"
-tags = ["docker"]
-categories = ["docker"]
-description = "Configuración DOCKER"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Configuración DOCKER"
+weight: 2
+draft: false
+---
 
 #### Las imágenes en Docker
 

@@ -1,14 +1,15 @@
 +++
-archetype = "chapter"
-title = "Bienvenido a la zona de ocio"
-weight = 1
+archetype = ""
+title = "OCIO"
+weight = 4
 +++
 
 
-# Programas TV
+## [**Puzzle: conecta las palabras**](/portfolio_hugo/entretenimiento/ocio_juego/)
 
 
-# Puzzle: conecta las palabras
+
+## [**¿Sabes como se carga una página web?**](/portfolio_hugo/entretenimiento/ocio_web/)
 
 
-# ¿Sabes como se carga una página web?
+## [**Programas TV**](/portfolio_hugo/entretenimiento/ocio_tv/)

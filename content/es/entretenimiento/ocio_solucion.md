@@ -1,11 +1,7 @@
-+++
-title = "Solución del puzle"
-tags = ["juego", "palabras"]
-categories = ["juego"]
-description = "Juego de palabras"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Solución del puzzle"
+draft: false
+---
 
 ## ¡ENHORABUENA!
 

@@ -1,11 +1,8 @@
-+++
-title = "Vinculación a git"
-tags = ["git", "github"]
-categories = ["git"]
-description = "Vinculación a GIT"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Vinculación a GIT"
+weight: 1
+draft: false
+---
 
 ## Repositorio local y repositorio remoto
 
@@ -13,9 +10,9 @@ Los **repositorios remotos** son versiones del proyecto hospedadas en Internet. 
 
 Las operaciones básicas entre un repositorio remoto y uno local son:
 
-[**push**](/git_push/): Envía los cambios validados de la rama local a la rama remota.
+[**push**](/portfolio_hugo/git/git_push/): Envía los cambios validados de la rama local a la rama remota.
 
-[**pull**](/git_pull/): Descarga y combina automáticamente la rama remota con la rama actual.
+[**pull**](/portfolio_hugo/git/git_pull/): Descarga y combina automáticamente la rama remota con la rama actual.
 
 Dentro de Git (no Github) existe lo que se conoce como las 3 zonas, que son la estructura base de Git en la que se divide este sistema de control de versiones:
 

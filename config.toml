@@ -8,84 +8,77 @@ defaultContentLanguage="es"
 [params]
   themeVariant = "dwes"
 
+# Gráficos
+
+[params.mermaid]
+    enable = true
+
+
+# Idiomas
+
 [Languages]
     [Languages.es]
-        title = "Ejemplo para el uso de idiomas"
         weight = 1
         languageName = "Español"
 
         contentDir = "content/es"
 
         [[Languages.es.menu.shortcuts]]
-          name="<i class='fab fa-wikipedia-w'></i>   Wiki del curso"
-          url="https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Contenido"
+          name="<i class='fab fa-2x fa-linkedin'></i>   Linkedin"
+         url = "https://www.linkedin.com/in/pilar-laborda-berd%C3%BAn-13568060"
           weight=1
 
         [[Languages.es.menu.shortcuts]]
-          name="<i class='fad fa-book-reader'></i>   Apuntes Hugo"
-          url="http://manuel.infenlaces.com/dwes/hugo/docs/teoria/"
+          name="<i class='fab fa-2x fa-github'></i>   Repositorio"
+          url="https://github.com/plabordab"
           weight=2
 
         [[Languages.es.menu.shortcuts]]
-          name="<i class='far fa-question-circle'></i>   Ejercicios resueltos"
-          url="http://manuel.infenlaces.com/dwes/ejercicios/"
+          name="<i class='fas fa-2x fa-envelope'></i>   Email"
+          url = "mailto:pilarlabordaweb@gmail.com"
           weight=3
 
-        [[Languages.es.menu.shortcuts]]
-          name="<i class='fab fa-github'></i>   Repositorio"
-          url="https://github.com/plabordab/ej_hugo"
-          weight=4
+
 
     [Languages.en]
-        title = "Example use language"
         weight = 2
         languageName = "English"
 
         contentDir = "content/en"
 
           [[Languages.en.menu.shortcuts]]
-          name="<i class='fab fa-wikipedia-w'></i>   Course Wiki"
-          url="https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Contenido"
+          name="<i class='fab fa-2x fa-linkedin'></i>   Linkedin"
+          url = "https://www.linkedin.com/in/pilar-laborda-berd%C3%BAn-13568060"
           weight=1
 
         [[Languages.en.menu.shortcuts]]
-          name="<i class='fad fa-book-reader'></i>   Hugo notes"
-          url="http://manuel.infenlaces.com/dwes/hugo/docs/teoria/"
+          name="<i class='fab fa-2x fa-github'></i>   Repository"
+          url="https://github.com/plabordab"
           weight=2
 
         [[Languages.en.menu.shortcuts]]
-          name="<i class='far fa-question-circle'></i>   Solved exercises"
-          url="http://manuel.infenlaces.com/dwes/ejercicios/"
+          name="<i class='fas fa-2x fa-envelope'></i>   Email"
+          url = "mailto:pilarlabordaweb@gmail.com"
           weight=3
 
-        [[Languages.en.menu.shortcuts]]
-          name="<i class='fab fa-github'></i>   Repository"
-          url="https://github.com/plabordab/ej_hugo"
-          weight=4
 
    [Languages.fr]
-        title = "Exemple d'utilisation des langues"
         weight = 3
         languageName = "Français"
 
         contentDir = "content/fr"
 
           [[Languages.fr.menu.shortcuts]]
-          name="<i class='fab fa-wikipedia-w'></i>   Cours Wiki"
-          url="https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Contenido"
+          name="<i class='fab fa-2x fa-linkedin'></i>   Linkedin"
+          url = "https://www.linkedin.com/in/pilar-laborda-berd%C3%BAn-13568060"
           weight=1
 
         [[Languages.fr.menu.shortcuts]]
-          name="<i class='fad fa-book-reader'></i>   Notes Hugo"
-          url="http://manuel.infenlaces.com/dwes/hugo/docs/teoria/"
+          name="<i class='fab fa-2x fa-github'></i>   Référentiel"
+          url="https://github.com/plabordab"
           weight=2
 
         [[Languages.fr.menu.shortcuts]]
-          name="<i class='far fa-question-circle'></i>   Exercices résolus"
-          url="http://manuel.infenlaces.com/dwes/ejercicios/"
+          name="<i class='fas fa-2x fa-envelope'></i>   Email"
+          url = "mailto:pilarlabordaweb@gmail.com"
           weight=3
-
-        [[Languages.fr.menu.shortcuts]]
-          name="<i class='fab fa-github'></i>   Référentiel"
-          url="https://github.com/plabordab/ej_hugo"
-          weight=4

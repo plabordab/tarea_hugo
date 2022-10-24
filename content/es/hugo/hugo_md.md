@@ -1,11 +1,8 @@
-+++
-title = "Markdown"
-tags = ["Markdown"]
-categories = ["Markdown"]
-description = "Markdown"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Markdown"
+weight: 2
+draft: false
+---
 
 Markdown es un lenguaje de marcado como html, pero con la particularidad que es mucho más sencillo y práctico de usar. Además su curva de aprendizaje es extremadamente sencilla y proporciona ventajas en lo que a productividad se refiere. 
 

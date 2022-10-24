@@ -1,11 +1,8 @@
-+++
-title = "git push"
-tags = ["git", "github"]
-categories = ["github"]
-description = "cargar contenido del repositorio local a un repositorio remoto"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "GIT PUSH: Subidas"
+weight: 2
+draft: false
+---
 
 El comando `git push` se usa para cargar contenido del repositorio local a un repositorio remoto. 
 

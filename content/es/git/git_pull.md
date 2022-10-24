@@ -1,11 +1,8 @@
-+++
-title = "git pull"
-tags = ["git", "github"]
-categories = ["github"]
-description = "descarga contenido desde un repositorio remoto, actualizando el repositorio local"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "GIT PULL: Descargas"
+weight: 3
+draft: false
+---
 
 El comando `git pull` se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local. 
 

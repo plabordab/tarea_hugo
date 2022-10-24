@@ -1,11 +1,8 @@
-+++
-title = "tema universal"
-tags = ["tema"]
-categories = ["tema"]
-description = "Tema HUGO"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Tema Universal"
+weight: 3
+draft: false
+---
 
 Universal es una plantilla web limpia y elegante construida con Bootstrap. Destaca por su diseño limpio y su elegante tipografía.
 

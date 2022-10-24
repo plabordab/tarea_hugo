@@ -1,11 +1,8 @@
-+++
-title = "Resuelve el puzle"
-tags = ["juego", "palabras"]
-categories = ["juego"]
-description = "Juego de palabras"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Resuelve el puzle"
+weight: 1
+draft: false
+---
 
 ## Conecta las palabras
 
@@ -13,8 +10,9 @@ A continuación se muestran algunas herramientas o tecnologías para el desarrol
 
 Debes agrupadas según la relación que existe entre ellas y definirlas.
 
-![Imagen no encontrada](/img/juego.png "puzzle")
+![Imagen no encontrada](/juego.png "puzzle")
 
 ---
 
- # [**SOLUCIÓN**](/ocio_solucion/)
+ # [**SOLUCIÓN**](/portfolio_hugo/entretenimiento/ocio_solucion/)
+

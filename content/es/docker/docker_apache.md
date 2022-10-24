@@ -1,11 +1,8 @@
-+++
-title = "apache"
-tags = ["docker", "apache"]
-categories = ["docker"]
-description = "APACHE"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "APACHE"
+weight: 3
+draft: false
+---
 
 ![Imagen no encontrada](/img/apache.jpeg "Apache")
 

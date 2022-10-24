@@ -1,10 +1,7 @@
 +++
-title = "¿Qué es HUGO?"
-tags = ["hugo"]
-categories = ["hugo"]
-description = "Introducción Hugo"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
+archetype = ""
+title = "HUGO"
+weight = 1
 +++
 
 ## El framework más rápido del mundo para crear sitios web

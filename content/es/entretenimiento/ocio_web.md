@@ -1,11 +1,8 @@
-+++
-title = "Proceso de carga de una página Web"
-tags = ["web"]
-categories = ["web"]
-description = "Carga web"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
+---
+title: "Proceso de carga de una Web"
+weight: 3
+draft: false
+---
 
 El proceso de carga de una página web tiene una complejidad invisible para el usuario, que indica qué página web quiere ver y ésta se carga en segundos. 
 

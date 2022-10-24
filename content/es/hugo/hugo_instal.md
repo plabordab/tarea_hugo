@@ -1,12 +1,8 @@
-+++
-title = "INSTALACIÓN DE HUGO"
-tags = ["hugo"]
-categories = ["hugo"]
-description = "Instalación HUGO"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
-
+---
+title: "Instalación Hugo"
+weight: 1
+draft: false
+---
 
 Para instalar la versión más estable de hugo en la terminal de linux escribimos: 
 

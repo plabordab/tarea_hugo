@@ -1,9 +1,8 @@
 +++
-title = "Contacto"
-id = "contact"
+archetype = ""
+title = "SOBRE MÍ"
+weight = 5
 +++
-
-# Sobre mí
 
 Soy una persona alegre y trabajadora y con muchas ganas de aprender. 
 

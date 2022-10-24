@@ -1,12 +1,8 @@
-+++
-title = "instalación de docker"
-tags = ["docker"]
-categories = ["docker"]
-description = "Instalación DOCKER"
-banner = "img/banners/hugo.jpeg"
-authors = ["Pilar Laborda"]
-+++
-
+---
+title: "Instalación DOCKER"
+weight: 1
+draft: false
+---
 
 Antes de instalar Docker debemos desinstalar versiones antiguas, para ello ejecutamos el comando: 
 
@@ -63,7 +59,6 @@ newgrp docker
 > Si no funciona, intentamos dar los permisos para la conexión al socket del dominio Docker:
 > 
 >> ``` js
->> 
 >> sudo chmod 666 /var/run/docker.sock
 >> 
 >> ```
