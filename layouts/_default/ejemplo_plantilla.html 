@@ -1,0 +1,16 @@
+---
+layout: ejemplo_plantilla
+draft: "false"
+title: "Plantillas"
+---
+# Uso de una plantilla
+En esta página veremos el uso de una plantilla
+
+{{ .Title }}
+
+{{ .Params.bar }}
+
+{{ if or (isset .Params "alt") (isset .Params "caption") }} Caption {{ end }}
+
+<title>{{ .Title }}</title>
+

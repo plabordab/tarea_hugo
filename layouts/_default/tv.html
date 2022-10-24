@@ -1,0 +1,25 @@
+{{- partial "output-partial.hugo" (dict "base" "header" "page" . "parameter" .) }}
+
+{{- partial "page-meta.hugo" . }}
+
+<h1>Listado de canales</h1>
+
+<ol>
+
+{{ range .Site.Data.tv }}
+
+    <li style="color:#0000cf">{{ .name}}</li>
+
+    {{ range .channels}}
+
+    <a href="{{.web}}">
+        <img class="inline" src="{{.logo }}" alt = "{{.name}}">
+    </a>
+
+    {{ end}}
+
+{{ end }}
+
+</ol>
+
+{{- partial "output-partial.hugo" (dict "base" "footer" "page" . "parameter" .) }}
